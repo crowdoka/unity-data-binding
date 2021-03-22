@@ -1,0 +1,16 @@
+{
+  "displayName": "unity-data-binding",
+  "name": "unitydatabinding",
+  "version": "1.0.0",
+  "description": "unity-data-binding",
+  "dependencies": {
+    "naughtyattributes": "2.0.8",
+    "unirx": "6.2.2"
+  },
+  "author": "crowdoka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crowdoka/unity-data-binding/issues"
+  },
+  "homepage": "https://github.com/crowdoka/unity-data-binding"
+}
