@@ -3,10 +3,6 @@
   "name": "unitydatabinding",
   "version": "1.0.1",
   "description": "unity-data-binding",
-  "dependencies": {
-    "naughtyattributes": "2.0.8",
-    "unirx": "6.2.2"
-  },
   "author": "crowdoka",
   "license": "MIT",
   "bugs": {
