@@ -1,7 +1,7 @@
 {
   "displayName": "unity-data-binding",
   "name": "unitydatabinding",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "unity-data-binding",
   "dependencies": {
     "naughtyattributes": "2.0.8",
