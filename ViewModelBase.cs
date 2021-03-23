@@ -2,9 +2,9 @@
 {
 	using UnityEngine;
 
-	public abstract class ViewModelBase<T> : ViewModelCore where T : new()
+	public abstract class ViewModelBase<T> : ViewModelCore
 	{
-		public T Data { get; set; } = new T();
+		public T Data { get; set; }
 
 		public override void SetData(object data)
 		{
